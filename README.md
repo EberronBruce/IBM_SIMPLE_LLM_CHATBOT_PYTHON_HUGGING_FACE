@@ -1,6 +1,13 @@
 # BlenderBot Chatbot in Python
 
+A simple chatbot using an LLM from Hugging Face, built as part of IBM’s AI Developer certification.
+
 This project is a simple command-line chatbot built using the [Facebook BlenderBot 400M distilled model](https://huggingface.co/facebook/blenderbot-400M-distill), powered by Hugging Face's `transformers` library.
+
+---
+
+## Tech Stack
+Python, Hugging Face Transformers, IBM Cloud, Skills Network
 
 ---
 
