@@ -7,7 +7,7 @@ This project is a simple command-line chatbot built using the [Facebook BlenderB
 ---
 
 ## Tech Stack
-- Python
+- Python 3.x
 - Hugging Face Transformers
 - IBM Cloud
 - Skills Network
@@ -16,13 +16,22 @@ This project is a simple command-line chatbot built using the [Facebook BlenderB
 
 ## 🧰 Features
 
+- 🔁 Text-based conversational interface
+- 🤗 Hugging Face transformer models
+- 🧠 AI-driven responses powered by LLMs
+- ✅ Based on an IBM lab project
 - Uses the `facebook/blenderbot-400M-distill` conversational model.
-- Maintains a conversation history for context-aware responses.
-- Runs interactively in a terminal window.
 
 ---
 
 ## 🔧 Setup Instructions
+
+1. Clone this repo:
+
+```bash
+git clone https://github.com/EberronBruce/ibm_simple_llm_chatbot_huggingface.git
+cd ibm_simple_llm_chatbot_huggingface
+```
 
 Before running the chatbot, follow these steps to set up a Python virtual environment and install dependencies:
 
