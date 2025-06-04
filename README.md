@@ -7,7 +7,10 @@ This project is a simple command-line chatbot built using the [Facebook BlenderB
 ---
 
 ## Tech Stack
-Python, Hugging Face Transformers, IBM Cloud, Skills Network
+- Python
+- Hugging Face Transformers
+- IBM Cloud
+- Skills Network
 
 ---
 
